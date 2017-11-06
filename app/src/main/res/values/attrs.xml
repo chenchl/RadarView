@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RadarView">
+        <attr name="rvRadarColor" format="color" />
+        <attr name="rvTextColor" format="color" />
+        <attr name="rvScoreColor" format="color" />
+        <attr name="rvTextSize" format="dimension" />
+        <attr name="rvPointSize" format="dimension" />
+        <attr name="rvRadarNum" format="integer" />
+    </declare-styleable>
+</resources>
